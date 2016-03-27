@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>3D interface and browser demo</title>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+  <link rel="stylesheet" href="jquery-ui/jquery-ui.structure.min.css">
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="jquery-ui/jquery-ui.js"></script>
+  <script src="itabs.js"></script>
+  <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<h1 style="color:white;">3D interface and browser demo</h1>
+
+</p>
+<!--
+<div id="dialog" title="Xpheres OS pop up">
+  <p>Bienvenido a xpheres OS, encontrarás información y acceso a servicios en mi nube e información y selección de aplicaciones seguras</p>
+</div>-->
+      
+     
+      
+<ul id="menu" class="menu">
+  
+  <li class="ui-state-disabled">Servicios</li>  
+      <li id="info">Info</li>
+  </li>
+  
+  <li> Internet 
+      <ul>
+      <li id="urlbrowser"> <div id="dialog-browser" title="Meta browser"></div>
+	  <img id="opener-browser" src="img/world.png">Navegador</li>
+	   <li id="urlosm"> <div id="dialog-osm" title="Open street maps"></div>
+	  <img id="opener-osm" src="img/osm.png">Open street maps</li>
+	    <li id="urlanalytical"> <div id="dialog-analytical" title="Analytical translator"></div>
+	  <img id="opener-analytical" src="img/analytical.png">Analytical translator</li>
+      </li>
+      </li>
+      </li>     
+      </ul>
+   </li>   
+   
+</ul>
+
+ 
+ <p id="info"></p>
+ <!--<a href="http://" target="_blank">http://</a>-->
+ <br><br><br><br><br><br><br><br><br>
+
+	  <div id="dialog-info" title="Dialog"></div>
+	  
+	  <!--<img id="opener-2" src="img/info.png">-->
+	  
+	  <!--<div id="dialog-3" title="Xpheres browser"></div>
+	  <img id="opener-3" src="img/world.png">-->
+	  
+	  <!--<div id="dialog-4" title="Polymer calculator"></div>
+	  <img id="opener-4" src="img/calc.png">-->
+	  
+	  <!--  <div id="dialog-app" title="App info"></div>-->
+	  
+	    
+
+	  
+
+</body>
+</html>
