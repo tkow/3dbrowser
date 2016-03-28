@@ -8,4 +8,6 @@ A WebGL experiment, rendering a fully accessible website on a computer screen 3d
 
 Try it out here (Chrome only): http://lingoworld.eu/websites/surf-in-style/index.html
 
+Watch a video demo: https://youtu.be/cCsROojKACQ
+
 Read the post about it: http://jensarps.de/2013/07/02/html-elements-in-webgl-recursion/
